@@ -1,4 +1,4 @@
-print("TESTE: cade a tranquerei")
+print("teste: cade a tranquerei")
 
 
 
