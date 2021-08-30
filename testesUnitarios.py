@@ -1,6 +1,6 @@
 import unittest
 from Main import Store, Client 
-
+print("Teste")
 class Tests(unittest.TestCase):
     def setUp(self):
         self.s = Store(15, 0)
